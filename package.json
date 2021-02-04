@@ -1,5 +1,5 @@
 {
-  "name": "crescer",
+  "name": "calculadora-js",
   "scripts": {
     "test": "jest"
   },

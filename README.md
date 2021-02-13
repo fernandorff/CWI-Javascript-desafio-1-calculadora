@@ -8,7 +8,7 @@ Operação é um valor que vai ser usado para saber qual a operação que a calc
 
 Valores é um array de números que a calculadora vai processar
 
-Essa função deverá retornar o valor que foi calculado, e caso o usuário passe uma operação inválida, deverá retornar a string "OPERAÇÃO INVÁLIDA"
+Essa função deverá retornar o valor que foi calculado, e caso o usuário passe uma operação inválida, deverá retornar a string "OPERACAO_INVALIDA"
 
 Exemplo de utilização da função:
 

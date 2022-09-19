@@ -3,7 +3,7 @@ export const OPERACAO_INVALIDA = 'OPERACAO_INVALIDA'
 export const calculadora = (operacao, valores) => {
   switch (operacao) {
     case 'soma':
-      soma = valores[0]
+      let soma = valores[0]
       for (let index = 1; index < valores.length; index++) {
         soma += valores[i]
         
@@ -11,7 +11,7 @@ export const calculadora = (operacao, valores) => {
       return soma;
     
     case 'subtracao':
-      subtracao = valores[0]
+      let subtracao = valores[0]
       for (let index = 1; index < valores.length; index++) {
         subtracao -= valores[i]
         
@@ -19,7 +19,7 @@ export const calculadora = (operacao, valores) => {
       return subtracao;
 
     case 'multiplicacao':
-      multiplicacao = valores[0]
+      let multiplicacao = valores[0]
       for (let index = 1; index < valores.length; index++) {
         multiplicacao *= valores[i]
         
@@ -27,7 +27,7 @@ export const calculadora = (operacao, valores) => {
       return multiplicacao;
 
     case 'divisao':
-      divisao = valores[0]
+      let divisao = valores[0]
       for (let index = 1; index < valores.length; index++) {
         divisao /= valores[i]
         

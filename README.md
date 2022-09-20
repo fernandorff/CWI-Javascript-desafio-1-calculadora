@@ -1,3 +1,8 @@
+### Code overview SonarQube
+
+![image](https://user-images.githubusercontent.com/101672271/191284821-8cd0f4dc-2668-4d5c-ae43-617fbcc6e5f4.png)
+
+
 ### Calculadora em JS
 
 Vamos fazer uma calculadora básica com JavaScript, usando o que vimos até agora em aula.
